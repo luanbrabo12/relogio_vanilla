@@ -28,6 +28,7 @@ footer{
   width: 700px;
   height: 500px;
   background-color: #cca1cc;
+  box-shadow: 1px 1px 2px #b960b9;
 }
 .conteiner > h1{
   color: #fff;
